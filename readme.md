@@ -1,0 +1,1 @@
+Latex grammar from https://github.com/James-Yu/LaTeX-Workshop/blob/master/syntax/LaTeX.tmLanguage.json
